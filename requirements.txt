@@ -1,0 +1,14 @@
+streamlit
+langchain-openai
+langchain
+watchdog
+plotly
+reportlab
+python-docx
+requests
+pandas
+numpy
+python-dotenv
+streamlit-option-menu
+streamlit-extras
+mutagen
